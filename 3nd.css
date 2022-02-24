@@ -1,0 +1,33 @@
+#container{
+    width: 300px;
+    text-align: center;
+    border: 1px solid #C3C3C3
+}
+.header{
+    background-color: #136F77;
+    color: #c0f0f6;
+    font-size: 24px;
+}
+.portrait{
+    font-size: 18px;
+    margin: 10px;
+}
+.price{
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.amount{
+    font-weight: 700;
+    color: #50B36E;
+}
+.button{
+    background-color: #50B36E;
+    color: white;
+    border: 0;
+    width: 300px;
+    padding: 20px;
+    font-size: 20px;
+}
+.button:hover{
+    box-shadow: 0 5px 5px gray;
+}

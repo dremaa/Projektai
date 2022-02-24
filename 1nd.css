@@ -1,0 +1,9 @@
+ul{
+    border: 1px solid #141301;
+}
+.odd{
+    background-color: #B7B5B3;
+}
+.even{
+    background-color: #E5E7E6;
+}
